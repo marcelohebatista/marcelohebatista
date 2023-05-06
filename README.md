@@ -1,6 +1,8 @@
 ### Consultor em TI | Análise de Dados | Docente | Pesquisador
 
-#### Formado em Ciência da Computação com Mestrado em Computação Aplicada, sou um consultor "resolvedor de problemas" nas empresas que envolva Tecnologia da Informação usando os dados para me ajudar nesta caminhada.
+#### Formado em Ciência da Computação com Mestrado em Computação Aplicada, procuro ser um consultor, analista de dados, docente e pesquisador "resolvedor de problemas".
+
+#### Atuando nas empresas/instituições na área da Tecnologia da Informação usando os dados como matéria-prima para me auxiliar nesta caminhada.
 
 
 
